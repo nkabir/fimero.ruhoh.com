@@ -1,6 +1,7 @@
 ---
 title : About Me
-description:
+description: About blog
+
 ---
 
-Hello, how are you?
+# About page
